@@ -65,3 +65,4 @@ Output looks like:
 {'deviceId': 'TEST-SW-2.example.local', 'ipAddress': '10.10.10.11', 'platform': 'cisco WS-C3560-48PS', 'capabilities': 'Switch IGMP',
 'localInterface': 'GigabitEthernet1/6', 'interface': 'GigabitEthernet0/1', 'version': 'Cisco IOS Software, C3560 Software
 (C3560-IPBASEK9-M), Version 12.2(53)SE2, RELEASE SOFTWARE (fc3)', 'nativeVlan': '1', 'duplex': 'full'}
+'''
