@@ -1,0 +1,65 @@
+sh cdp nei det
+----------------------------------------
+Device ID:SW-01
+VTP Management Domain Name: VTPDOMAIN
+
+Interface address(es):
+    IPv4 Address: 10.5.5.1
+Platform: WS-C2960-48TT, Capabilities: Switch IGMP Filtering 
+Interface: mgmt0, Port ID (outgoing port): FastEthernet0/46
+Holdtime: 123 sec
+
+Version:
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 12.2(44)SE2, RELEASE SOFTWARE (fc2)
+Copyright (c) 1986-2008 by Cisco Systems, Inc.
+Compiled Thu 01-May-08 15:55 by antonino
+
+Advertisement Version: 2
+
+Native VLAN: 776
+Duplex: full
+Mgmt address(es):
+    IPv4 Address: 10.5.5.1
+----------------------------------------
+Device ID:SW-02.example.com(RF54SYKL0K1)
+System Name: SW-02
+
+Interface address(es):
+    IPv4 Address: 10.5.5.2
+Platform: N77-C7706, Capabilities: Router Switch IGMP Filtering Supports-STP-Dispute
+Interface: Ethernet1/1, Port ID (outgoing port): Ethernet1/1
+Holdtime: 121 sec
+
+Version:
+Cisco Nexus Operating System (NX-OS) Software, Version 7.2(0)D1(1)
+
+Advertisement Version: 2
+
+Native VLAN: 1
+Duplex: full
+Physical Location: Rack #5
+Mgmt address(es):
+    IPv4 Address: 10.5.5.2
+
+----------------------------------------
+Device ID:SW-03.example.com
+VTP Management Domain Name: null
+
+Interface address(es):
+    IPv4 Address: 10.5.5.3
+Platform: WS-C3850-48T, Capabilities: Switch IGMP Filtering 
+Interface: Ethernet1/5, Port ID (outgoing port): TenGigabitEthernet2/1/2
+Holdtime: 161 sec
+
+Version:
+Cisco IOS Software, Catalyst L3 Switch Software (CAT3K_CAA-UNIVERSALK9-M), Version 15.2(2)E4, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Sat 13-Feb-16 03:45 by prod_rel_team
+
+Advertisement Version: 2
+
+Native VLAN: 400
+Duplex: full
+Mgmt address(es):
+    IPv4 Address: 10.5.5.3

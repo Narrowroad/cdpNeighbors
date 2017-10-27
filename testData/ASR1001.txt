@@ -1,0 +1,68 @@
+ASR-01#sh cdp nei det
+-------------------------
+Device ID: SW-21.example.com
+Entry address(es): 
+  IP address: 10.30.5.21
+Platform: cisco WS-C2960X-24TS-L,  Capabilities: Switch IGMP 
+Interface: GigabitEthernet0/0/1,  Port ID (outgoing port): GigabitEthernet1/0/16
+Holdtime : 141 sec
+
+Version :
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.0(2)EX3, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2013 by Cisco Systems, Inc.
+Compiled Wed 11-Sep-13 02:04 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF0000000000005CA48A27B600FF0000
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: full
+Management address(es): 
+  IP address: 10.30.5.21
+
+-------------------------
+Device ID: SW-22.example.com
+Entry address(es): 
+  IP address: 10.30.5.22
+Platform: cisco WS-C3850-48T,  Capabilities: Switch IGMP 
+Interface: GigabitEthernet0/0/3,  Port ID (outgoing port): GigabitEthernet1/0/39
+Holdtime : 162 sec
+
+Version :
+Cisco IOS Software, Catalyst L3 Switch Software (CAT3K_CAA-UNIVERSALK9-M), Version 15.2(3)E2, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Tue 21-Jul-15 12:51 by prod_rel_team
+
+advertisement version: 2
+VTP Management Domain: 'VTPDOMAIN'
+Native VLAN: 3800
+Duplex: full
+Management address(es): 
+  IP address: 10.30.5.22
+
+-------------------------
+Device ID: SW-23.example.com
+Entry address(es): 
+  IP address: 10.30.5.23
+Platform: cisco WS-C3850-48T,  Capabilities: Switch IGMP 
+Interface: GigabitEthernet0/0/0,  Port ID (outgoing port): GigabitEthernet1/0/1
+Holdtime : 179 sec
+
+Version :
+Cisco IOS Software, Catalyst L3 Switch Software (CAT3K_CAA-UNIVERSALK9-M), Version 15.2(2)E4, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Sat 13-Feb-16 03:45 by prod_rel_team
+
+advertisement version: 2
+VTP Management Domain: ''
+Native VLAN: 600
+Duplex: full
+Management address(es): 
+  IP address: 10.30.5.23
+
+
+Total cdp entries displayed : 3
+ASR-01#
